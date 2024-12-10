@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WineSupplierPlus.Server", "WineSupplierPlus.Server\WineSupplierPlus.Server.csproj", "{88EA7C2C-855E-46FB-BE49-FE3CFA0827BB}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "winesupplierplus.client", "winesupplierplus.client\winesupplierplus.client.esproj", "{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EA7C2C-855E-46FB-BE49-FE3CFA0827BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EA7C2C-855E-46FB-BE49-FE3CFA0827BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EA7C2C-855E-46FB-BE49-FE3CFA0827BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EA7C2C-855E-46FB-BE49-FE3CFA0827BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F69DBF0-ECAF-42A5-BDDF-FE00ECCE6D72}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
